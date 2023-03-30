@@ -1,0 +1,5 @@
+# ide
+.idea/
+# src
+config/
+notebook

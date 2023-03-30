@@ -1,0 +1,15 @@
+body .container h3,
+body .container mark.primary {
+    display: block;
+    text-align: center;
+}
+
+body .container form label {
+    display: inline-block;
+    text-align: right;
+    width: 100px;
+}
+
+body .container img {
+    margin-top: 10px;
+}
